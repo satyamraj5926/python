@@ -1,0 +1,7 @@
+print(18+5)
+print(18-5)
+print(18*5)
+print(18/5)
+print(18//5)
+print(18%5)
+print(2**3)
